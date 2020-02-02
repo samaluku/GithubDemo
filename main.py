@@ -3,7 +3,7 @@ def StartScherm():
 def LevelOne():
   pass
 def LevelTwo():
-  pass
+  LevelTwo = 'Yo im pretty sure we kinda need this code'
 
 StartScherm()
 LevelOne()
