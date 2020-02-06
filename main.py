@@ -1,5 +1,5 @@
 def StartScherm():
-  pass
+  startscherm = "Hey there. This is the startscherm. No I do not care that this is a string and not an actual screen"
 def LevelOne():
   pass
 def LevelTwo():
